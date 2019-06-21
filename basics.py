@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("set1.csv") 
+df = pd.read_csv("raw_sortate.csv") 
 
 #Afiseaza primele 10 randuri din fisier
 print("Afiseaza primele 10 randuri din fisier")
